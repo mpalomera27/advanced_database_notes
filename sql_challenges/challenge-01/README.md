@@ -1,1 +1,0 @@
-Answer the firt 5 exercises of sqlbolt.
